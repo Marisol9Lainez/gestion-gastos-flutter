@@ -32,7 +32,7 @@ CONFIGURACIÓN DEL ENTORNO
 CONFIGURACIÓN DEL PROYECTO
 -------------------------
 1. Clonar o descargar el proyecto:
-   - Clonar con Git: git clone [URL_DEL_REPOSITORIO]
+   - Clonar con Git: git clone [https://github.com/Marisol9Lainez/gestion-gastos-flutter]
    - O descargar el código fuente como ZIP
 
 2. Abrir el proyecto:
@@ -124,5 +124,10 @@ SOLUCIÓN DE PROBLEMAS
 CONTACTO Y SOPORTE
 -----------------
 Para soporte técnico o reporte de errores:
-- Correo: [TU_CORREO]
-- GitHub: [TU_REPOSITORIO]
+- Desarrollador: Marisol Lainez
+- Correo: yesenia.9ayala@gmail.com
+- GitHub: https://github.com/Marisol9Lainez/gestion-gastos-flutter
+
+CRÉDITOS
+--------
+Desarrollado por Marisol Lainez para el proyecto de gestión de gastos personales.
