@@ -47,11 +47,11 @@ class DatabaseHelper {
     try {
       await db.execute('''
         CREATE TABLE expenses(
-          id INTEGER PRIMARY KEY AUTOINCREMENT,  // ID autoincremental
-          description TEXT NOT NULL,  // Descripción obligatoria
-          category TEXT NOT NULL,  // Categoría obligatoria
-          amount REAL NOT NULL,  // Monto obligatorio
-          date TEXT NOT NULL  // Fecha obligatoria
+          id INTEGER PRIMARY KEY AUTOINCREMENT,  
+          description TEXT NOT NULL,  
+          category TEXT NOT NULL,  
+          amount REAL NOT NULL,  
+          date TEXT NOT NULL  
         )
       ''');
       developer.log('Tabla expenses creada exitosamente');
